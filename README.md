@@ -2,7 +2,7 @@
 
 
 
-## SQL script to query data warehouse ESE share
+### SQL script to query data warehouse ESE share
 
 > :warning: **Before** running the script make sure you are connected to VPN
 
